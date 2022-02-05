@@ -21,15 +21,15 @@
   }
 body{
 background-color: var(--pale-blue);
-padding-top: 5em;
+padding-top: 2em;
 font-family:'Gill Sans', sans-serif;
 background-image: url(pattern-background-desktop.svg);
 background-repeat: repeat-x
 }
 .container{
     background-color: var(--very-pale-blue);
-    width: 40%;
-    margin: auto;
+    width: 30%;
+    margin: auto;   
     border-radius: 0.5em;
 }
 img.ilustration{
