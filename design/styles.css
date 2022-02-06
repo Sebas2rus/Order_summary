@@ -102,6 +102,6 @@ h2{
 @media screen and (max-width:550px) {
     .container{
         width: 90vw;
-        
+        margin-top: 5vh;
     }
 }
